@@ -1,0 +1,2 @@
+jsonjs.data['modality'] = 
+[["id","folder_id","name","description"],["modality_1","folder_1","modality 1","description of modality 1"],["a_or_b","folder_1","a or b","contains \"a\" or \"b\""],["a_or_b_or_c","folder_2","a or b or c","contains \"a\" or \"b\" or \"c\""],["only_zero","folder_2","only zero","contains only a 0 value"]]

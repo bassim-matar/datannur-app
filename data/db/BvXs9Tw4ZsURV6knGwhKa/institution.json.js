@@ -1,0 +1,2 @@
+jsonjs.data['institution'] = 
+[["id","parent_id","name","description","email","phone"],["institution_1",null,"institution 1","description of institution 1","institution_1@institution.com","021 234 56 78"],["institution_2","institution_1","institution 2","description of institution 2","institution_2@institution.com","022 345 67 89"],["institution_3",null,"institution 3",null,null,null]]

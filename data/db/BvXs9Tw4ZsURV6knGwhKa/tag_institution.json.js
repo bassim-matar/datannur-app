@@ -1,0 +1,2 @@
+jsonjs.data['tag_institution'] = 
+[["tag_id","institution_id"],["tag_2","institution_1"],["tag_15","institution_1"],["tag_11","institution_1"],["tag_3","institution_2"],["tag_8","institution_2"],["tag_12","institution_2"],["tag_13","institution_2"],["tag_14","institution_2"],["tag_4","institution_2"],["tag_5","institution_2"],["tag_1","institution_2"],["tag_2","institution_2"]]

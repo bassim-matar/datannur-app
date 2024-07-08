@@ -1,0 +1,2 @@
+jsonjs.data['__metaFolder__'] = 
+[["id","description"],["data","Base de données principale avec les metadonnées du catalogue"],["user_data","Base de données personnelle stockée dans le navigateur web de l'utilisateur"]]

@@ -1,0 +1,2 @@
+jsonjs.data['value'] = 
+[["modality_id","value","description"],["modality_1",null,"empty value"],["modality_1","value_1","description of value_1"],["modality_1","value_2","description of value_2"],["a_or_b","<i>a</i>","it's a \"a\""],["a_or_b","b","it's a \"b\""],["a_or_b_or_c","<i>a</i>","it's a \"a\""],["a_or_b_or_c","b","it's a \"b\""],["a_or_b_or_c","c","it's a \"c\""],["only_zero",0,null]]
