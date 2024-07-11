@@ -1,0 +1,14 @@
+{
+  "name": "datannaire-app",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "",
+  "scripts": {
+    "view": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^5.3.3",
+    "vite-plugin-full-reload": "^1.2.0",
+    "jsonjsdb_editor": "^0.1.13"
+  }
+}
