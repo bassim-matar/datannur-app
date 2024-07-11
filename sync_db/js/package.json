@@ -4,11 +4,9 @@
   "type": "module",
   "description": "",
   "scripts": {
-    "view": "vite preview"
+    "sync": "node sync.js"
   },
-  "devDependencies": {
-    "vite": "^5.3.3",
-    "vite-plugin-full-reload": "^1.2.0",
+  "dependencies": {
     "jsonjsdb_editor": "^0.1.13"
   }
 }
