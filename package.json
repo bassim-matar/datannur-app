@@ -6,7 +6,7 @@
   "scripts": {
     "view": "vite preview"
   },
-  "dependencies": {
+  "devDependencies": {
     "vite": "^5.3.3",
     "vite-plugin-full-reload": "^1.2.0",
     "jsonjsdb_editor": "^0.1.13"
