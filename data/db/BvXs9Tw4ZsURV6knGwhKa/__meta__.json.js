@@ -18,7 +18,7 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "config",
-    "last_modif": 1725399323
+    "last_modif": 1726516282
   },
   {
     "name": "dataset",
