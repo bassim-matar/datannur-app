@@ -163,7 +163,7 @@ mermaid(
   $variable <--> $modality
   $modality --> $value
 );
-`,Pg="![main_banner not_rounded](data/img/main_banner{dark_mode}.png?v=1)",Hg=`# datannur, le catalogue de données portable
+`,Pg="![main_banner not_rounded](assets/main_banner{dark_mode}.png?v=1)",Hg=`# datannur, le catalogue de données portable
 
 Permet de centraliser, rechercher et visualiser les informations sur une collection de jeux de données
 
