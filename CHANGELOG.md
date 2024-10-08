@@ -1,5 +1,14 @@
 # datannur
 
+## unreleased
+
+- changed : use tab for about page
+- changed : rename preview file and md file, move md jsonjs in db
+- changed : use md doc from db based on doc id
+- fixed : footer vue meta highlight on metavariable page
+- fixed : entity icon in title centered on mobile when no favorite
+- removed : readme folder attribut, icon and color
+
 ## 0.8.13 (2024-10-07)
 
 - added : about tab for search page
