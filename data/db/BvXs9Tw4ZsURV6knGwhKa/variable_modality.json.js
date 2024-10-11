@@ -1,2 +1,0 @@
-jsonjs.data['variable_modality'] = 
-[["variable_id","modality_id"],["ser_pub_loc___variable_3","modality_1"],["ser_pub_loc___variable_5","modality_1"],["accident_route___variable_2","a_or_b"],["ser_pub_loc___canton","canton_sigle"],["ser_pub_loc___langue","langue_sigle"],["ser_pub_loc___nouveau","oui_non"],["ser_pub_loc___nouveau","vide"]]

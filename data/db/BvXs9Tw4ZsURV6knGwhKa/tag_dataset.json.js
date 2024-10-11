@@ -1,2 +1,0 @@
-jsonjs.data['tag_dataset'] = 
-[["tag_id","dataset_id"],["personal_data","dep_sante"],["sensible_data","dep_sante"],["sante","dep_sante"],["population","dep_sante"],["anonymous_data","usage_internet"],["population","usage_internet"],["culture","usage_internet"]]

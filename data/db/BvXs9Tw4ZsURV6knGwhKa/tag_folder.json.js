@@ -1,2 +1,0 @@
-jsonjs.data['tag_folder'] = 
-[["tag_id","folder_id"],["personal_data","bevnat"],["personal_data","statpop"],["sensible_data","bevnat"],["population","bevnat"],["population","statpop"],["societe","statpop"]]

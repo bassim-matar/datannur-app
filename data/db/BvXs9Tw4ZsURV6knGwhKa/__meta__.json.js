@@ -22,23 +22,11 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "dataset",
-    "last_modif": 1727948818
+    "last_modif": 1728678553
   },
   {
     "name": "doc",
     "last_modif": 1728399514
-  },
-  {
-    "name": "doc_dataset",
-    "last_modif": 1727949413
-  },
-  {
-    "name": "doc_folder",
-    "last_modif": 1728392612
-  },
-  {
-    "name": "doc_institution",
-    "last_modif": 1727960003
   },
   {
     "name": "filter",
@@ -46,7 +34,7 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "folder",
-    "last_modif": 1727960030
+    "last_modif": 1728678262
   },
   {
     "name": "info",
@@ -54,7 +42,7 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "institution",
-    "last_modif": 1727959586
+    "last_modif": 1728678275
   },
   {
     "name": "modality",
@@ -65,31 +53,11 @@ jsonjs.data['__meta__'] =
     "last_modif": 1727874221
   },
   {
-    "name": "tag_dataset",
-    "last_modif": 1727949360
-  },
-  {
-    "name": "tag_folder",
-    "last_modif": 1727959441
-  },
-  {
-    "name": "tag_institution",
-    "last_modif": 1727960940
-  },
-  {
-    "name": "tag_variable",
-    "last_modif": 1727962474
-  },
-  {
     "name": "value",
     "last_modif": 1727962244
   },
   {
     "name": "variable",
-    "last_modif": 1727962068
-  },
-  {
-    "name": "variable_modality",
-    "last_modif": 1727962230
+    "last_modif": 1728678808
   }
 ]
