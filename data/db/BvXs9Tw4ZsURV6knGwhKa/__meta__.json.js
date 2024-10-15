@@ -1,16 +1,8 @@
 jsonjs.data['__meta__'] = 
 [
   {
-    "name": "__metaDataset__",
-    "last_modif": 1717669033
-  },
-  {
-    "name": "__metaFolder__",
-    "last_modif": 1717669033
-  },
-  {
-    "name": "__metaVariable__",
-    "last_modif": 1725440785
+    "name": "__meta_schema__",
+    "last_modif": 1728993334
   },
   {
     "name": "alias",
