@@ -10,7 +10,7 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "config",
-    "last_modif": 1726670267
+    "last_modif": 1729103386
   },
   {
     "name": "dataset",
@@ -26,15 +26,11 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "folder",
-    "last_modif": 1728678262
-  },
-  {
-    "name": "info",
-    "last_modif": 1728846209
+    "last_modif": 1729105999
   },
   {
     "name": "institution",
-    "last_modif": 1728678275
+    "last_modif": 1729106242
   },
   {
     "name": "modality",
@@ -51,5 +47,9 @@ jsonjs.data['__meta__'] =
   {
     "name": "variable",
     "last_modif": 1728678808
+  },
+  {
+    "name": "__meta__",
+    "last_modif": 1729106354.649
   }
 ]
