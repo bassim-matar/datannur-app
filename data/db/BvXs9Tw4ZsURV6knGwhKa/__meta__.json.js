@@ -5,10 +5,6 @@ jsonjs.data['__meta__'] =
     "last_modif": 1728996460
   },
   {
-    "name": "alias",
-    "last_modif": 1717669033
-  },
-  {
     "name": "config",
     "last_modif": 1729103386
   },
@@ -19,10 +15,6 @@ jsonjs.data['__meta__'] =
   {
     "name": "doc",
     "last_modif": 1728399514
-  },
-  {
-    "name": "filter",
-    "last_modif": 1717669033
   },
   {
     "name": "folder",
@@ -50,6 +42,6 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "__meta__",
-    "last_modif": 1729106354.649
+    "last_modif": 1729114408.09
   }
 ]
