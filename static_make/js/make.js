@@ -207,7 +207,7 @@ async function capture_page(page, route, level) {
   }, route)
   try {
     await page.waitForSelector(
-      `#page_loaded_route_${route.replace("/", "___")}`,
+      `#page_loaded_route_${route.replaceAll("/", "___")}`,
       { timeout: 10000 }
     )
     const content = await page.content()
