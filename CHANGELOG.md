@@ -4,8 +4,10 @@
 
 - added : doc description
 - changed : center vertically datatables rows content
+- changed : migrate all svelte code to version 5
 - fixed : tabs body overflow hidden when not datatables
 - fixed : extendable text in tab info default 2 lines visible
+- removed : default bulma css
 
 ## 0.9.0 (2024-10-23)
 
