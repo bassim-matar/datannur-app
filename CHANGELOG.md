@@ -6,11 +6,14 @@
 - added : ckeckDb accecc to db object via global window
 - added : dark mode nice transition with view transition on switch
 - changed : make about and stat tab overflow on full page
+- changed : doc md preview no padding
 - fixed : git language stats with correct gitattributes
 - fixed : extendable fixed width and break word
 - fixed : nb_values width during loading because value infered from list
 - fixed : sort by dataset nb line as numeric even if empty value
 - fixed : replace css :not() with opposite class name because of warning in latest svelte
+- fixed : no cursor pointer on dataset preview
+- fixed : favorite number display on mobile
 
 ## 0.9.2 (2024-11-02)
 
