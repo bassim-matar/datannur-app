@@ -1,11 +1,16 @@
 # datannur
 
-## unreleased
+## 0.9.4 (2024-11-12)
 
 - added : table column filter info popup
 - changed : table download filename use page and tab name
 - changed : align attribute name and value on page entity info on mobile
 - fixed : dropdown header menu stick after click
+- fixed : markdown ol padding
+- fixed : extendable on one line
+- fixed : tag page opposite tags tab
+- fixed : header fav btn on mobile
+- fixed : dont show btn filter info popup when no filter
 
 ## 0.9.3 (2024-11-07)
 
