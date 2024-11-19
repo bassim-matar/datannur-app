@@ -1,5 +1,10 @@
 # datannur
 
+## unreleased
+
+- added : stat popup shown from table column tooltip btn
+- changed : description info with correct padding and width on mobile
+
 ## 0.9.4 (2024-11-12)
 
 - added : table column filter info popup
