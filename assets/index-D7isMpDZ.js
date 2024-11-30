@@ -215,13 +215,13 @@ téléchargement en XLSX
 ### Vue interne
 
 datannur est simple et transparent afin que l’utilisateur puisse toujours avoir le contrôle sur ses données. Une vue interne au catalogue permet de voir comment les métadonnées sont organisées. C’est l’application du catalogue à lui même, sur sa base de données interne.
-`,Wb=`# datannur, le catalogue de données portable
+`,Wb=`# L'annuaire de données pour les centraliser, certifier, standardiser
 
-Permet de centraliser, rechercher et visualiser les informations sur une collection de jeux de données
+Recherchez rapidement et organisez efficacement l'information pour maximiser votre productivité
 
-Pour améliorer l’organisation des données et faciliter leur partage et leur documentation
+Garantissez la qualité, la conformité et la protection des données pour renforcer votre crédibilité
 
-Simple et flexible, s’intègre rapidement dans tous types d’environnements
+Améliorez l'interopérabilité et la réutilisation des données pour développer vos collaborations
 
 - **Facile** :
 Aucune installation ou configuration nécessaire. datannur est le catalogue le plus simple à implémenter et maintenir
@@ -235,8 +235,8 @@ Flexible, complet et structuré autour de 7 concepts avec un niveau de détail i
 - **Sécurisé** :
 Parce qu’elle est une simple interface HTML isolée dans le navigateur, l’application ne peut rien modifier sur la machine et ne pose ainsi aucun risque
 
-Pour en savoir plus : [datannur.com](https://datannur.com)`,Ub=`La version ici présente est un prototype en cours de développement et d'expérimentation. 
-Les données utilisées sont fictives et uniquement à usage de test et de développement. 
+Pour en savoir plus : [datannur.com](https://datannur.com)`,Ub=`Cette version du logiciel est destinée exclusivement à des fins de démonstration.
+Les données utilisées sont fictives et ont pour seul objectif d’illustrer les fonctionnalités du logiciel.
 Question ou suggestion : [contact@datannur.com](mailto:contact@datannur.com).`;function Bh(){const t=ee.table_has_id("config","banner")?ee.get_config("banner"):Ch,e=ee.table_has_id("config","body")?ee.get_config("body"):Wb,n=ee.table_has_id("config","more_info")?ee.get_config("more_info"):Ub;return t+`
 `+e+`
 
