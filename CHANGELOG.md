@@ -3,9 +3,9 @@
 ## unreleased
 
 - added : markdown image caption 
-- changed : updated first screenshot of about page fonctionality tab
 - changed : updated all sreenshots
 - changed : updated main presentation text
+- changed : updated text for organisation and fonctionality tab, also renamed "vue méta" to "vue interne"
 - fixed : github linguist stats with correct gitattributes
 
 ## 0.9.6 (2024-12-05)
