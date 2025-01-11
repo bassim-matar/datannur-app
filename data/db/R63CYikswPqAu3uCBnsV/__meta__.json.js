@@ -38,10 +38,14 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "variable",
-    "last_modif": 1736539908
+    "last_modif": 1736638164
+  },
+  {
+    "name": "history",
+    "last_modif": 1736638234
   },
   {
     "name": "__meta__",
-    "last_modif": 1736626039
+    "last_modif": 1736638234
   }
 ]
