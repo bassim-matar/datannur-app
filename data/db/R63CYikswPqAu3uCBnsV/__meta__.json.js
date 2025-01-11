@@ -10,7 +10,7 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "dataset",
-    "last_modif": 1736542414
+    "last_modif": 1736625980
   },
   {
     "name": "doc",
@@ -18,7 +18,7 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "folder",
-    "last_modif": 1736430135
+    "last_modif": 1736626039
   },
   {
     "name": "institution",
@@ -41,11 +41,7 @@ jsonjs.data['__meta__'] =
     "last_modif": 1736539908
   },
   {
-    "name": "history",
-    "last_modif": 1736542414
-  },
-  {
     "name": "__meta__",
-    "last_modif": 1736542414
+    "last_modif": 1736626039
   }
 ]
