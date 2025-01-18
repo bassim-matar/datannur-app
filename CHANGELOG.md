@@ -1,12 +1,14 @@
 # datannur
 
-## unreleased
+## 0.10.2 (2025-01-18)
 
 - added : parent entity to history on entity page
 - added : markdown link title attribute to open internal link in new tab
 - added : percent color past and futur for column last_update and next_update
 - added : border bottom to datatable header
 - changed : history green and red background color more visible
+- changed : history last and next update with different type in select input
+- changed : make tabs more compact et colored
 - fixed : sort column moment by numeric value
 - fixed : jsonjsdb_editor prevent adding entry when old and new value are both null or empty
 
