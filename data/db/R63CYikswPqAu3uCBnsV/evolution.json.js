@@ -1,2 +1,2 @@
 jsonjs.data['evolution'] = 
-[["timestamp","type","entity","entity_id","parent_entity_id","variable","old_value","new_value","name"],[1737208669,"update","variable","accident_route___variable_6",null,"type","string","integer",null]]
+[]
