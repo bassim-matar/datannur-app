@@ -1,11 +1,14 @@
 # datannur
 
-## unreleased
+## 0.10.5 (2025-02-09)
 
 - added : evolution summary switch to toggle evolution mode
 - added : evolution summary filter main entity
+- added : evolution summary filter simple filter mode
 - changed : icon "partie de" use entity color
 - changed : evolution update date use futur and past color for variable icon
+- changed : put tab title on two rows
+- changed : make tab title percent use entity color
 - fixed : jsonjsdv_editor evolution dont stringify null value
 
 ## 0.10.4 (2025-01-26)
