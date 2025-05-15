@@ -1,10 +1,6 @@
 jsonjs.data['__meta__'] = 
 [
   {
-    "name": "__meta_schema__",
-    "last_modif": 1735312394
-  },
-  {
     "name": "config",
     "last_modif": 1729103386
   },
@@ -46,6 +42,6 @@ jsonjs.data['__meta__'] =
   },
   {
     "name": "__meta__",
-    "last_modif": 1746734605
+    "last_modif": 1747311750
   }
 ]
